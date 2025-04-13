@@ -4,7 +4,7 @@ Analysing the sentiments (Positive, Negative and Neutral) on various product rev
 * Implemented random forest classifier to predict the sentiment.
 * Below table depicts the preformance of random forest using various embeddings
 * 	Train accuracy	Test accuracy
-Random Forest bow	1.000000	0.841584
+|Random Forest bow!	1.000000|	0.841584|
 Random Forest Tf-IDF	1.000000	0.821782
 Random Forest Word2vec	1.000000	0.841584
 Random Forest glove	0.997512	0.841584
